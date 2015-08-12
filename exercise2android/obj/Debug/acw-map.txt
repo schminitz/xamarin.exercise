@@ -1,0 +1,4 @@
+exercise2android.MainActivity, exercise2android;md525174c6703300d28a8cd82780d4c1c5d.MainActivity
+exercise2android.MainActivity, exercise2android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md525174c6703300d28a8cd82780d4c1c5d.MainActivity
+exercise2android.MainActivity;md525174c6703300d28a8cd82780d4c1c5d.MainActivity
+exercise2android.MainActivity;md525174c6703300d28a8cd82780d4c1c5d.MainActivity

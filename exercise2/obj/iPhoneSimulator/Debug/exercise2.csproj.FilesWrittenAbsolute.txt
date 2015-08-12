@@ -1,0 +1,13 @@
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/Refractored.Xam.Settings.dll
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/Refractored.Xam.Settings.Abstractions.dll
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/exercise2.exe.mdb
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/exercise2.exe
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/exercise2.exe
+/Users/schminitz/xamarin/exercise2/exercise2/obj/iPhoneSimulator/Debug/exercise2.exe.mdb
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/exercise2pcl.dll
+/Users/schminitz/xamarin/exercise2/exercise2/bin/iPhoneSimulator/Debug/exercise2pcl.dll.mdb
